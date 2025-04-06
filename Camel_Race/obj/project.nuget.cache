@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "5X/h37FE3lI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sara\\Documents\\Space_Invaders\\Camel_Race\\Camel_Race\\Camel_Race\\Camel_Race.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sara\\.nuget\\packages\\heirloom.core\\1.0.2-beta\\heirloom.core.1.0.2-beta.nupkg.sha512",
+    "C:\\Users\\Sara\\.nuget\\packages\\heirloom.desktop\\1.0.2-beta\\heirloom.desktop.1.0.2-beta.nupkg.sha512",
+    "C:\\Users\\Sara\\.nuget\\packages\\heirloom.miniaudio\\1.0.2-beta\\heirloom.miniaudio.1.0.2-beta.nupkg.sha512",
+    "C:\\Users\\Sara\\.nuget\\packages\\heirloom.opengles\\1.0.2-beta\\heirloom.opengles.1.0.2-beta.nupkg.sha512"
+  ],
+  "logs": []
+}
