@@ -170,11 +170,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Sara\\Documents\\Space_Invaders\\Camel_Race\\Camel_Race\\Camel_Race\\Camel_Race.csproj",
+      "projectUniqueName": "C:\\Users\\Sara\\Documents\\Projectes-Git\\Camel_Race\\Camel_Race\\Camel_Race.csproj",
       "projectName": "Camel_Race",
-      "projectPath": "C:\\Users\\Sara\\Documents\\Space_Invaders\\Camel_Race\\Camel_Race\\Camel_Race\\Camel_Race.csproj",
+      "projectPath": "C:\\Users\\Sara\\Documents\\Projectes-Git\\Camel_Race\\Camel_Race\\Camel_Race.csproj",
       "packagesPath": "C:\\Users\\Sara\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Sara\\Documents\\Space_Invaders\\Camel_Race\\Camel_Race\\Camel_Race\\obj\\",
+      "outputPath": "C:\\Users\\Sara\\Documents\\Projectes-Git\\Camel_Race\\Camel_Race\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Sara\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Camel_Race
-build_property.ProjectDir = C:\Users\Sara\Documents\Space_Invaders\Camel_Race\Camel_Race\Camel_Race\
+build_property.ProjectDir = C:\Users\Sara\Documents\Projectes-Git\Camel_Race\Camel_Race\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

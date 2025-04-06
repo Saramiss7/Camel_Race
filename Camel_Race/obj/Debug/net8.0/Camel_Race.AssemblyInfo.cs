@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Camel_Race")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+050b0df8ee2a815dd917f09c8220f0702878cf87")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0ff66a71ac99168067ea4090f1fbcb9687448b05")]
 [assembly: System.Reflection.AssemblyProductAttribute("Camel_Race")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Camel_Race")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
