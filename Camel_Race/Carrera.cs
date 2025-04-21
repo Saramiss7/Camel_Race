@@ -123,52 +123,6 @@ public class Carrera
         }
     }
 
-    /*public void EsPotCanviCarril(Carril carrilActual)
-    {
-        Random m = new();
-        int canvi = _carrils.IndexOf(carrilActual); //trobar la posició d'un element dins d'una llista
-        
-        if (m.Next(0, 2) == 1) //Si es troba en la posicio de dalt
-        {
-            if (canvi < _carrils.Count - 1)
-            {
-                Carril Down = _carrils[canvi + 1];
-                if (ViaLliure(carrilActual, Down))
-                {
-                    CanviCarril(carrilActual, Down);
-                    return;
-                }
-                if (canvi > 0)
-                {
-                    Carril Up = _carrils[canvi - 1];
-                    if (ViaLliure(carrilActual, Up))
-                    {
-                        CanviCarril(carrilActual, Up);
-                    }
-                }
-            }
-        }
-    }
-
-    public bool ViaLliure(Carril actual, Carril direccio)
-    {
-        var camellActual = actual.ObtenirCamell();
-        var camellCanvi = direccio.ObtenirCamell();
-        
-        return camellCanvi == null || camellActual.Posicio.X > camellCanvi.Posicio.X;
-    }
-
-    public void CanviCarril(Carril actual, Carril canvi)
-    {
-        var camellcanvi = actual.ObtenirCamell();
-
-        if (camellcanvi != null)
-        {
-            actual.TreureCamell();
-            canvi.AfegirCamell(camellcanvi, (int)camellcanvi.Posicio.X);
-        }
-    }*/
-
     public void Pinta(GraphicsContext gfx)
     {
         var rectanglefinestra = new Rectangle((0, 0), Finestra.Size);
